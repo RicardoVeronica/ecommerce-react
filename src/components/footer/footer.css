@@ -1,0 +1,10 @@
+.footer {
+    margin-top: 2rem;
+    padding: 1rem 0;
+    background-color: var(--primary-dark);
+}
+
+.footer__text {
+    font-size: 2.2rem;
+    text-align: center;
+}
