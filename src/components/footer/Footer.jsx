@@ -5,7 +5,7 @@ const Footer = () => {
     <>
       <footer className='footer'>
         <p className='footer__text'>
-          Ecommerce - All Rights Reserved 2023
+          Ricardo Veronica Duran - All Rights Reserved 2023
         </p>
       </footer>
     </>

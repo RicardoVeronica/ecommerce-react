@@ -10,21 +10,21 @@ function Store() {
         <Product
           image_url="../../../public/img/1.jpg"
           image_alt="VueJS T-Shirt"
-          name="VueJS"
+          name="Vue"
           price="25"
         />
 
         <Product
           image_url="../../../public/img/2.jpg"
           image_alt="AngularJS T-Shirt"
-          name="AngularJS"
+          name="Angular"
           price="25"
         />
 
         <Product
           image_url="../../../public/img/3.jpg"
           image_alt="ReactJS T-Shirt"
-          name="ReactJS"
+          name="React"
           price="25"
         />
 
@@ -38,7 +38,7 @@ function Store() {
         <Product
           image_url="../../../public/img/5.jpg"
           image_alt="NodeJS T-Shirt"
-          name="NodeJS"
+          name="Node"
           price="25"
         />
 
@@ -104,6 +104,9 @@ function Store() {
           name="WordPress"
           price="25"
         />
+
+        <div className='graphic graphic--tshirts'></div>
+        <div className='graphic graphic--node'></div>
       </section>
     </main>
   )
